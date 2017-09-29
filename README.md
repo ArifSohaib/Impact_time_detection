@@ -1,7 +1,7 @@
 # Impact_time_detection
 Uses FullyConnectedNetwork and Autoencoder to detect timestamp for collision
 
-#Requirements
+<h3>Requirements</h3>
 <ul>
 <li>
 pytorch
